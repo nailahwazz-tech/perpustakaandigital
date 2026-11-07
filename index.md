@@ -12,5 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Latihan ICA-REQ Module 1-3](ebook/LATIHAN%20ICA-REQ%20Module%201-3%28buku%208%29.pdf)
 9. [Artikel (buku 9)](ebook/Artikel%20%28buku%209%29.pdf)
 10. [Peraturan ANRI Nomor 14 Tahun 2012](ebook/6.%20Peraturan%20ANRI%20Nomor%2014%20Tahun%202012%20%28buku%2010%29.pdf)
+11. [Rangkuman Materi UGC](ebook/Rangkuman%20materi%20ugc%20%28buku%2011%29.pdf)
+    
 ---
 *Powered by GitHub Pages*
